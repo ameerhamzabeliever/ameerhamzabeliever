@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Flutter+%26+Kotlin+Senior+Engineer+%F0%9F%9A%80;End-to-End+Mobile+Product+Delivery+%F0%9F%93%B1;From+Idea+%E2%86%92+Launch+%E2%86%92+Growth+%F0%9F%8C%B1;Cross-Platform+%7C+Android+%7C+iOS+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=iOS+%26+Flutter+Senior+Engineer+%F0%9F%9A%80;End-to-End+Mobile+Product+Delivery+%F0%9F%93%B1;From+Idea+%E2%86%92+Launch+%E2%86%92+Growth+%F0%9F%8C%B1;Cross-Platform+%7C+Android+%7C+iOS+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
 
