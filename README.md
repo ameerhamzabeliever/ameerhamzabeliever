@@ -23,9 +23,9 @@ val engineer = MobileProductEngineer(
     scope    = "End-to-End Product Delivery",
     
     expertise = listOf(
-        "Flutter & Dart",
-        "Kotlin & Android",
         "iOS Development",
+        "Flutter & Dart",
+        "Kotlin & Android",,
         "Backend Integration",
         "Product Strategy & Costing",
         "Team Leadership"
