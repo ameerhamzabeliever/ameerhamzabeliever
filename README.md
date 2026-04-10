@@ -20,7 +20,7 @@
 let engineer = MobileProductEngineer(
     name:     "Ameer Hamza",
     role:     "Senior iOS & Mobile Application Engineer",
-    location: "Paris, France 🇫🇷",
+    location: "Venice, Italy 🇮🇹",
     scope:    "End-to-End Product Delivery",
     
     expertise: [
